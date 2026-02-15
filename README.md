@@ -1,4 +1,4 @@
-# 🎓 Final Year Project: AI-Powered Personal Finance Tracker
+AI-Powered Personal Finance Tracker
 
 A Smart, AI-driven platform for modern personal finance management — combining voice input, receipt scanning, machine learning, and predictive analytics to help users take control of their financial future.
 
@@ -41,7 +41,6 @@ Key modules include **Group Expense Management** for shared finances, and **Cele
 
 ## 📂 Folder Structure (Simplified)
 
-Final-Year-Project/
 ├── finance_tracker/ # Django project folder
 ├── templates/ # HTML templates
 ├── static/ # Tailwind CSS, JS, images
